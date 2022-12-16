@@ -1,0 +1,1080 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2C700%2Cregular&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopcokhi.webtudong8giay.com%252Fmay-mai-cam-tay-cong-suat-lon-gia-re-hai-goi-y-chat-luong-nha-bosch%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopcokhi.webtudong8giay.com%252Fmay-mai-goc-thuong-hieu-nao-tot-bosch-co-uu-the-hon-stanley-khong%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fshopcokhi.webtudong8giay.com%252Fmua-may-rua-xe-tu-hut-nuoc-thong-minh-dung-bo-lo-makita-va-bosch%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/category/tuyen-dung/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\category\tuyen-dung\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/category/tuyen-dung/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\category\tuyen-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/chinh-sach-bao-hanh/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\chinh-sach-bao-hanh\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/chinh-sach-doi-tra/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\chinh-sach-doi-tra\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/dewalt-stanley-blackdecker/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\dewalt-stanley-blackdecker\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/dewalt-stanley-blackdecker/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\dewalt-stanley-blackdecker\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/dong-co-moto1-pha-3-pha/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\dong-co-moto1-pha-3-pha\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/dong-co-moto1-pha-3-pha/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\dong-co-moto1-pha-3-pha\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-ban-tia-xay-dung/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-ban-tia-xay-dung\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-ban-tia-xay-dung/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-ban-tia-xay-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-bom-nuoc-dan-dung/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-bom-nuoc-dan-dung\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-bom-nuoc-dan-dung/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-bom-nuoc-dan-dung\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-nen-khi/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-nen-khi\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-nen-khi/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-nen-khi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-quat-dan-dung-cong-nghiep/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-quat-dan-dung-cong-nghiep\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-quat-dan-dung-cong-nghiep/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-quat-dan-dung-cong-nghiep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-toi-dien-uon-va-duoi-sat/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-toi-dien-uon-va-duoi-sat\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/may-toi-dien-uon-va-duoi-sat/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\may-toi-dien-uon-va-duoi-sat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/thiet-bi-bao-ho-lao-dong/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\thiet-bi-bao-ho-lao-dong\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/thiet-bi-bao-ho-lao-dong/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\thiet-bi-bao-ho-lao-dong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/thiet-bi-vat-tu-nganh-moc/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\thiet-bi-vat-tu-nganh-moc\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/thiet-bi-vat-tu-nganh-moc/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\thiet-bi-vat-tu-nganh-moc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/vat-lieu-phu-kien/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\vat-lieu-phu-kien\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/danh-muc/vat-lieu-phu-kien/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\danh-muc\vat-lieu-phu-kien\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/gio-hang/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\gio-hang\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/gioi-thieu/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\gioi-thieu\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/may-mai-cam-tay-cong-suat-lon-gia-re-hai-goi-y-chat-luong-nha-bosch/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\may-mai-cam-tay-cong-suat-lon-gia-re-hai-goi-y-chat-luong-nha-bosch\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/may-mai-cam-tay-cong-suat-lon-gia-re-hai-goi-y-chat-luong-nha-bosch/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\may-mai-cam-tay-cong-suat-lon-gia-re-hai-goi-y-chat-luong-nha-bosch\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/may-mai-goc-thuong-hieu-nao-tot-bosch-co-uu-the-hon-stanley-khong/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\may-mai-goc-thuong-hieu-nao-tot-bosch-co-uu-the-hon-stanley-khong\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/may-mai-goc-thuong-hieu-nao-tot-bosch-co-uu-the-hon-stanley-khong/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\may-mai-goc-thuong-hieu-nao-tot-bosch-co-uu-the-hon-stanley-khong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/mua-may-rua-xe-tu-hut-nuoc-thong-minh-dung-bo-lo-makita-va-bosch/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\mua-may-rua-xe-tu-hut-nuoc-thong-minh-dung-bo-lo-makita-va-bosch\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/mua-may-rua-xe-tu-hut-nuoc-thong-minh-dung-bo-lo-makita-va-bosch/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\mua-may-rua-xe-tu-hut-nuoc-thong-minh-dung-bo-lo-makita-va-bosch\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/bo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\bo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/bo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\bo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/may-khoan-be-tong-dewalt-d25033k-3-chuc-nang/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\may-khoan-be-tong-dewalt-d25033k-3-chuc-nang\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/may-khoan-be-tong-dewalt-d25033k-3-chuc-nang/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\may-khoan-be-tong-dewalt-d25033k-3-chuc-nang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/may-van-vit-dung-pin-bosch-go-solo/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\may-van-vit-dung-pin-bosch-go-solo\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/may-van-vit-dung-pin-bosch-go-solo/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\may-van-vit-dung-pin-bosch-go-solo\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/thang-nhom-bon-doan-diy-tlg-4db/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\thang-nhom-bon-doan-diy-tlg-4db\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/thang-nhom-bon-doan-diy-tlg-4db/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\thang-nhom-bon-doan-diy-tlg-4db\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/thang-nhom-ghe-nikawa-nks-05/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\thang-nhom-ghe-nikawa-nks-05\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/san-pham/thang-nhom-ghe-nikawa-nks-05/feed/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\san-pham\thang-nhom-ghe-nikawa-nks-05\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/thanh-toan/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\thanh-toan\index.htm
+Content Type: text/html
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-admin\js\password-strength-meter.min-1.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/css/devvn-quick-buy.css?ver=2.1.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\css\devvn-quick-buy.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/images/close.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\images\close.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/devvn-quick-buy.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\devvn-quick-buy.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/devvn-quick-buy/js/jquery.validate.min.js?ver=2.1.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\devvn-quick-buy\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/css/style.css?ver=1.2.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\css\style.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/js/ot-vertical-menu.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\js\ot-vertical-menu.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/hoverIntent.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\hoverIntent.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/superfish.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/css/extra.min.css?ver=0.12.2
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\css\extra.min.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart-variation.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/address-i18n.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\address-i18n.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/checkout.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\checkout.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/country-select.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\country-select.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/blocks-checkout.js?ver=1aeb3f9cd2b4952d3b7c658c3ac54767
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\blocks-checkout.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/cart-frontend.js?ver=6d77f57ad4d2f28e9fae7e9327b354c9
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\cart-frontend.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/checkout-frontend.js?ver=a4392447bf571a544c579a23dd39b854
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\checkout-frontend.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/price-format.js?ver=e99bed7a5cf7f43aadbce4396ccbcc5e
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\price-format.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-data.js?ver=7318f17e99fb56cda4dd7e6fbc16db3c
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-data.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-middleware.js?ver=cfefc68c23f627155c81d4aa8d2dbf3c
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-middleware.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-registry.js?ver=b6339851784e6ad947a8015afb8847ff
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-registry.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-context.js?ver=65e3c38669e82f3ed75ea378b29997f0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-context.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-shared-hocs.js?ver=55647c9b478bc30776b5c52dc41b4954
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-shared-hocs.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-settings.js?ver=7b2188da90828d22e68dae2a8129bd03
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-settings.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-lazy-load/flatsome-lazy-load.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-lazy-load\flatsome-lazy-load.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.3
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/1583816098-1190151343-cong-ty-tnhh-th-ng-m-i-senka-vi-t-nam.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\1583816098-1190151343-cong-ty-tnhh-th-ng-m-i-senka-vi-t-nam.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/2097-1-296x400.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\2097-1-296x400.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/2097-1.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\2097-1.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/bo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon_12-100x100.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\bo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon_12-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/bo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon_12.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\bo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon_12.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hotline.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hotline.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1438186462-180-85-A-1.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1438186462-180-85-A-1.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1438186462-180-85-A.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1438186462-180-85-A.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1438186505-180-85-A.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1438186505-180-85-A.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1438186605-180-85-A.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1438186605-180-85-A.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1443241813-180-85-A-1.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1443241813-180-85-A-1.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1443241813-180-85-A.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1443241813-180-85-A.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1443241834-180-85-A-1.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1443241834-180-85-A-1.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1443241834-180-85-A-2.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1443241834-180-85-A-2.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1443241834-180-85-A.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1443241834-180-85-A.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1443241860-180-85-A-1.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1443241860-180-85-A-1.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1443241860-180-85-A.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1443241860-180-85-A.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/hung-sy-1443241883-180-85-A.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\hung-sy-1443241883-180-85-A.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/ic_support.gif
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\ic_support.gif
+Content Type: image/gif
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/luu-ban-nhap-tu-dong-1367-1-280x280.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\luu-ban-nhap-tu-dong-1367-1-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/luu-ban-nhap-tu-dong-1377-2-280x232.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\luu-ban-nhap-tu-dong-1377-2-280x232.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/may-khoan-be-tong-dewalt-d25033k-3-chuc-nang_420-100x100.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\may-khoan-be-tong-dewalt-d25033k-3-chuc-nang_420-100x100.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/may-khoan-be-tong-dewalt-d25033k-3-chuc-nang_420.png
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\may-khoan-be-tong-dewalt-d25033k-3-chuc-nang_420.png
+Content Type: image/png
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/may-van-vit-dung-pin-bosch-go-solo_1276-100x100.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\may-van-vit-dung-pin-bosch-go-solo_1276-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/may-van-vit-dung-pin-bosch-go-solo_1276.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\may-van-vit-dung-pin-bosch-go-solo_1276.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/mua-may-rua-xe-tu-hut-nuoc-thong-minh-dung-bo-lo-makita-va-bosch-1372-280x280.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\mua-may-rua-xe-tu-hut-nuoc-thong-minh-dung-bo-lo-makita-va-bosch-1372-280x280.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/thang-nhom-bon-doan-diy-tlg-4db_11153-100x100.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\thang-nhom-bon-doan-diy-tlg-4db_11153-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/thang-nhom-bon-doan-diy-tlg-4db_11153.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\thang-nhom-bon-doan-diy-tlg-4db_11153.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/thang-nhom-ghe-nikawa-nks-05_34-100x100.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\thang-nhom-ghe-nikawa-nks-05_34-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/thang-nhom-ghe-nikawa-nks-05_34.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\thang-nhom-ghe-nikawa-nks-05_34.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-content/uploads/2020/04/thanhtoan.jpg
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-content\uploads\2020\04\thanhtoan.jpg
+Content Type: image/jpeg
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\css\dashicons.min-1.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\css\dist\block-library\style.min-1.css
+Content Type: text/css
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/a11y.min.js?ver=ecce20f002eda4c19664
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\a11y.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/api-fetch.min.js?ver=bc0029ca2c943aec5311
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\api-fetch.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/autop.min.js?ver=43197d709df445ccf849
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\autop.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/blob.min.js?ver=a078f260190acf405764
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\blob.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/block-editor.min.js?ver=0c7c9b9a74ceb717d6eb
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\block-editor.min-1.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/block-editor.min.js?ver=d39738cb7c1202964677
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\block-editor.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/block-serialization-default-parser.min.js?ver=eb2cdc8cd7a7975d49d9
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\block-serialization-default-parser.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/blocks.min.js?ver=69022aed79bfd45b3b1d
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\blocks.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/components.min.js?ver=4b876f1ff2e5c93b8fb1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\components.min-1.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/components.min.js?ver=57b49a5bb19d1f1d566a
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\components.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/compose.min.js?ver=37228270687b2a94e518
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\compose.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/data-controls.min.js?ver=e10d473d392daa8501e8
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\data-controls.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/data.min.js?ver=d8cf5b24f99c64ae47d6
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\data.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/date.min.js?ver=ce7daf24092d87ff18be
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\date.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/deprecated.min.js?ver=6c963cb9494ba26b77eb
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\deprecated.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/dom-ready.min.js?ver=392bdd43726760d1f3ca
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\dom-ready.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/dom.min.js?ver=133a042fbbef48f38107
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\dom.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/element.min.js?ver=47162ff4492c7ec4956b
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\element.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/escape-html.min.js?ver=03e27a7b6ae14f7afaa6
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\escape-html.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/html-entities.min.js?ver=36a4a255da7dd2e1bf8e
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\html-entities.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/is-shallow-equal.min.js?ver=20c2b06ecf04afb14fee
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\is-shallow-equal.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/keyboard-shortcuts.min.js?ver=b696c16720133edfc065
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\keyboard-shortcuts.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/keycodes.min.js?ver=6e0aadc0106bd8aadc89
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\keycodes.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/notices.min.js?ver=9c1575b7a31659f45a45
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\notices.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/plugins.min.js?ver=0d1b90278bae7df6ecf9
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\plugins.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/primitives.min.js?ver=ae0bece54c0487c976b1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\primitives.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/priority-queue.min.js?ver=99e325da95c5a35c7dc2
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\priority-queue.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/redux-routine.min.js?ver=c9ea6c0df793258797e6
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\redux-routine.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/rich-text.min.js?ver=c704284bebe26cf1dd51
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\rich-text.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/shortcode.min.js?ver=7539044b04e6bca57f2e
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\shortcode.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/style-engine.min.js?ver=10341d6e6decffab850e
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\style-engine.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/token-list.min.js?ver=f2cf0bb3ae80de227e43
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\token-list.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/url.min.js?ver=bb0ef862199bcae73aa7
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\url.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\vendor\lodash.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/vendor/moment.min.js?ver=2.29.4
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\vendor\moment.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/vendor/react-dom.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\vendor\react-dom.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/vendor/react.min.js?ver=17.0.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\vendor\react.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/warning.min.js?ver=4acee5fc2fd9a24cefc2
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\warning.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/dist/wordcount.min.js?ver=feb9569307aec24292f2
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\dist\wordcount.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/underscore.min.js?ver=1.13.4
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\underscore.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\wp-util.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/wp-util.min.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\wp-util.min-1.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fchinh-sach-bao-hanh%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fchinh-sach-bao-hanh%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fchinh-sach-doi-tra%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fchinh-sach-doi-tra%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fgio-hang%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fgio-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fgioi-thieu%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fgioi-thieu%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fmay-mai-cam-tay-cong-suat-lon-gia-re-hai-goi-y-chat-luong-nha-bosch%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fmay-mai-cam-tay-cong-suat-lon-gia-re-hai-goi-y-chat-luong-nha-bosch%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fmay-mai-goc-thuong-hieu-nao-tot-bosch-co-uu-the-hon-stanley-khong%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fmay-mai-goc-thuong-hieu-nao-tot-bosch-co-uu-the-hon-stanley-khong%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fmua-may-rua-xe-tu-hut-nuoc-thong-minh-dung-bo-lo-makita-va-bosch%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fmua-may-rua-xe-tu-hut-nuoc-thong-minh-dung-bo-lo-makita-va-bosch%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fbo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fbo-may-khoan-dong-luc-bosch-gsb-13-re-set-100-mon%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fmay-khoan-be-tong-dewalt-d25033k-3-chuc-nang%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fmay-khoan-be-tong-dewalt-d25033k-3-chuc-nang%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fmay-van-vit-dung-pin-bosch-go-solo%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fmay-van-vit-dung-pin-bosch-go-solo%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fthang-nhom-bon-doan-diy-tlg-4db%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fthang-nhom-bon-doan-diy-tlg-4db%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fthang-nhom-ghe-nikawa-nks-05%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fsan-pham%2Fthang-nhom-ghe-nikawa-nks-05%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fthanh-toan%2F
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fshopcokhi.webtudong8giay.com%2Fthanh-toan%2F&format=xml
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/categories/17
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\categories\17
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/categories/65
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\categories\65
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/pages/11
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\pages\11
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/pages/13
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\pages\13
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/pages/253
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\pages\253
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/pages/258
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\pages\258
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/pages/41
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\pages\41
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/pages/583
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\pages\583
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/pages/663
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\pages\663
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/posts/1367
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\posts\1367
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/posts/1372
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\posts\1372
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/posts/1377
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\posts\1377
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product/1297
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product\1297
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product/1302
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product\1302
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product/1304
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product\1304
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product/1306
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product\1306
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product/1308
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product\1308
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/24
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\24
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/70
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\70
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/71
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\71
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/72
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\72
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/73
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\73
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/74
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\74
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/75
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\75
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/76
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\76
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/77
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\77
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/product_cat/78
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\product_cat\78
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: https://shopcokhi.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\shopcokhi.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
